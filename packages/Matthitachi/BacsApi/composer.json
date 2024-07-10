@@ -1,0 +1,17 @@
+{
+    "name": "matthitachi/bacs-api",
+    "description": "BACS API Package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Matthitachi\\BacsApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "matthitachi"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
